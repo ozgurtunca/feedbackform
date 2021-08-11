@@ -1,5 +1,8 @@
 # Basic Wordpress Feedback Form Plugin
 Wordpress plugin for feedback form
+Author: Ozgur M. Tunca
+First release date: 11.08.2021
+Current version: v0.1.0
 
 Plugin can be installed via Wordpress Dashboard -> Plugins -> Add New 
 
