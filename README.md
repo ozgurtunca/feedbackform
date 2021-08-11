@@ -1,4 +1,4 @@
-# feedbackform
+# Basic Wordpress Feedback Form Plugin
 Wordpress plugin for feedback form
 
 # PHP Form Builder by JoshCanHelp
