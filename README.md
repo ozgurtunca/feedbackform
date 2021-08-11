@@ -1,6 +1,9 @@
 # Basic Wordpress Feedback Form Plugin
 Wordpress plugin for feedback form
 
+Plugin can be installed via Wordpress Dashboard -> Plugins -> Add New 
+
+
 # PHP Form Builder by JoshCanHelp
 
 This plugin uses a small PHP Class to build the form.
